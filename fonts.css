@@ -339,6 +339,7 @@
 		.icon-drupal:before               { content: "\f301"; }
 		.icon-git-fork:before             { content: "\f302"; }
 		.icon-instagram:before            { content: "\f303"; }
+                .icon-github:before               { content:"\f304" ; }
 		.icon-share-this-sign:before      { content: "\f304"; }
 		.icon-share-this:before           { content: "\f305"; }
 		.icon-foursquare-sign:before      { content: "\f306"; }
